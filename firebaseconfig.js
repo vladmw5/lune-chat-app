@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
-  projectId: process.env.PROJECT_ID,
-  storageBucket: process.env.STORAGE_BUCKET,
-  messagingSenderId: process.env.MESSAGING_SENDER_ID,
-  appId: process.env.APP_ID,
+  apiKey: "AIzaSyCg06PSdxvu9tK8wYV3Qoy35xPpS2DYMhg",
+  authDomain: "lune-chat-app.firebaseapp.com",
+  projectId: "lune-chat-app",
+  storageBucket: "lune-chat-app.appspot.com",
+  messagingSenderId: "1023908046406",
+  appId: "1:1023908046406:web:7835fefc97ab0a6ebf4c47",
 };
 
 // Initialize Firebase
